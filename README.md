@@ -1,5 +1,9 @@
 # MI Primer Programa
 
+# Descripcion
+
+Haremos un proyecto aprendiendo multiples codigos de la terminal gracias al command challenge, mostraremos un mensaje de bienvenida que continuamente solicitara y mostrara la informacion obtenida; el codigo se comentara paso a paso de realizacion.
+
 # Contenido
 
 - Solucion command challenge 
