@@ -13,11 +13,17 @@ Haremos un proyecto aprendiendo multiples codigos de la terminal gracias al comm
 
 ## Command Challenge
 
-TODO: Agregar explicacón sobre este ejercicio, las evidencias y conclusiones de lo aprendido.
+El Command Challenge son multiples retos en donde usaremos codigos de terminal para crear, modificar, mover, eliminar, etc.
+Este reto consta de 43 codigos.
 
 ## Repositorio 
-
-TODO: Agregar los apuntes de clase, sobre como se crea un repositorio y sus principales comandos 
+Con los siguientes comandos podremos trabajar en la creacion de un repositorio en "GitHub" usando la herramienta "Gitbash"
+Git clone "URL"
+Readme.md
+git add readme.md
+git commit -m "creacion readme"
+git branch -m main
+git push -u origin main
 
 # Programa 
 
