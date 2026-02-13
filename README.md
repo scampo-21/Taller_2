@@ -27,7 +27,7 @@ git push -u origin main
 
 # Programa 
 
-TODO: lo vemos la siguiente clase ¡No faltar!
+En Visual Studio Code, con ayuda de la extensión del paquete de java creamos un codigo con el cual vamos a dar un mensaje de bienvenida y solicitaremos los datos de un "nombre" para como resultado dar un mensaje de bienvenida y mostrarlo todo con un panel de texto.
 
 # Integrantes 
 
